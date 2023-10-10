@@ -15,6 +15,7 @@ clear && javac inversionCount.java && java inversionCount.java
 
 
 
+# Tools and Frameworks used 
 * Created using `Visual Studio Code`
 
 * Tested using `openjdk version "20" 2023-03-21`
@@ -22,13 +23,10 @@ clear && javac inversionCount.java && java inversionCount.java
 * System used to test: `MacOS` (should work on any system)
 
 
+  
+#Sample detailed output is below
 
 
-/***********************************/
-/* Sample detailed output is below */
-/***********************************/
-
-/*
 source1.txt Quick Sort Inversions: 25066095
 
 source1.txt Bubble Sort Inversions: 25066095
@@ -62,4 +60,3 @@ source5.txt Merge Sort Inversions: 25016212
 The least number of inversion is 24975989
 
 The file with least inversion is : source2.txt
-*/
