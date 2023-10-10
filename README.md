@@ -1,8 +1,8 @@
-#Project Name: Count inversions using various sorting algorithms
+Project Name: Count inversions using various sorting algorithms
 
 
 
-#Contributors: Alfonso, Mohammad, Nathan, Lucas
+Contributors: Alfonso, Mohammad, Nathan, Lucas
 
 
 
@@ -10,7 +10,7 @@ The objective of this project is to analyze Quick-Sort (O(nlogn)), Merge-Sort (O
 
 
 
-## To compile and run
+# To compile and run
 clear && javac inversionCount.java && java inversionCount.java
 
 
