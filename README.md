@@ -24,7 +24,7 @@ clear && javac inversionCount.java && java inversionCount.java
 
 
   
-#Sample detailed output is below
+# Sample detailed output is below
 
 
 source1.txt Quick Sort Inversions: 25066095
